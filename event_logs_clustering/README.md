@@ -1,3 +1,5 @@
+**!!! In order to see interactive graphics via plotly I suggest to open the .html file in the browser, .ipynb file will not show them.**
+
 ## Problem setup:
 * The Client has thousands of events produced by his monitoring system every day. In
 our case, events are parsed and represented as strings.
